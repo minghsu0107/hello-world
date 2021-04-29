@@ -1,7 +1,7 @@
 # Hello World
 ## Usage
 ```bash
-docker build .
+docker build . -t <username>/<image-name>
 ```
 Alternatively, you can run the builded image directly:
 ```bash
